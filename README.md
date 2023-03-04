@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EC00&width=435&lines=Are+you+here+to+hire+me...+%F0%9F%98%8A;Let's+make+something+awesome+together...;We+can+make+your+startUp+more+efficient+." alt="Typing SVG" /></a>
 
-<h1 align="center">Hi 👋, I'm Rusiru but everybody call me Luci</h1>
+
 <h3 align="center">A lad who love to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucioddcode&label=Profile%20views&color=0e75b6&style=flat" alt="lucioddcode" /> </p>
